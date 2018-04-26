@@ -35,3 +35,5 @@ public abstract class GenericService<T extends Entity> implements Service<T> {
 	
 	protected abstract Class<T> getEntityType();
 }
+
+

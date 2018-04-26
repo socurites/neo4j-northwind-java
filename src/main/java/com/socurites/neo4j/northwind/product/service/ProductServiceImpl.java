@@ -14,3 +14,4 @@ public class ProductServiceImpl extends GenericService<Product> {
 	}
 
 }
+
